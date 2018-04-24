@@ -1,3 +1,5 @@
 # hello-world
 demo repository
-first step to git
+
+now i m editing in right place)
+inputing line 4
